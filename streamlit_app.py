@@ -7,5 +7,5 @@ st.write(
 )
 st.write("Shawty like a melody some lyrics i dont remember")
 
-st.write(datetime.now().time())
+st.write(datetime.datetime.now().time())
 but = st.button("rerun",onclick=st.rerun())
