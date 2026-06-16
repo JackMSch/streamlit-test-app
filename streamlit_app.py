@@ -8,4 +8,4 @@ st.write(
 st.write("Shawty like a melody some lyrics i dont remember")
 
 st.write(datetime.time)
-st.button("rerun",onclick=st.rerun())
+#st.button("rerun",onclick=st.rerun())
